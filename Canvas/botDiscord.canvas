@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"f6f20fc632184e46","type":"text","text":"Escrever sobre o Bot no discord","x":-301,"y":-124,"width":250,"height":60,"color":"6"},
+		{"id":"881dabe655cb5646","type":"text","text":"Começo de uma ideia","x":-104,"y":-9,"width":250,"height":60,"color":"4"},
+		{"id":"bfe3d4f407d69000","type":"text","text":"Falta de planejamento, tentativa de aprendizagem","x":60,"y":126,"width":250,"height":60,"color":"4"},
+		{"id":"742149f7c738d379","type":"text","text":"Novas ideias pro bot","x":-421,"y":134,"width":250,"height":60,"color":"5"},
+		{"id":"acde052da3f7e0c7","type":"text","text":"Ideias ja escritas","x":-86,"y":-305,"width":250,"height":60,"color":"5"},
+		{"id":"a9b67c44e5bd8414","x":-414,"y":330,"width":250,"height":110,"color":"5","type":"text","text":"Site e API's, alem de uma configuração propria pro servidor"},
+		{"id":"9bb12d0734c0cb2c","x":11,"y":353,"width":250,"height":60,"color":"5","type":"text","text":"Moderação do servidor com IA"},
+		{"id":"7fc10ba8ff2cbadc","x":-303,"y":559,"width":250,"height":121,"color":"5","type":"text","text":"Custumização com minegame de adivinha o personagem"},
+		{"id":"49d921f003561646","x":266,"y":315,"width":250,"height":60,"color":"4","type":"text","text":"Aprendizado para o futuro, e reavaliação do projeto."},
+		{"id":"f2509179f9e78c96","x":391,"y":-157,"width":250,"height":60,"color":"1","type":"text","text":"Desistencia e novas ideias"},
+		{"id":"40a1f40c96163638","x":240,"y":-346,"width":250,"height":101,"color":"3","type":"text","text":"Moderação em nivel e aplicação de cargos aleatorios"},
+		{"id":"37637610e1ae9652","x":-19,"y":-527,"width":250,"height":60,"color":"3","type":"text","text":"Historico de avatar"},
+		{"id":"65df57a6f4be37c0","x":271,"y":-482,"width":250,"height":60,"color":"3","type":"text","text":"Novos niveis, perfis, lojas e itens"}
+	],
+	"edges":[
+		{"id":"4c66382711405cb3","fromNode":"881dabe655cb5646","fromSide":"bottom","toNode":"bfe3d4f407d69000","toSide":"left","color":"4"},
+		{"id":"99acd090b19c97af","fromNode":"f6f20fc632184e46","fromSide":"bottom","toNode":"881dabe655cb5646","toSide":"left"},
+		{"id":"47a98db1a0ce41bf","fromNode":"f6f20fc632184e46","fromSide":"top","toNode":"acde052da3f7e0c7","toSide":"bottom"},
+		{"id":"78a4c2c0778cdfca","fromNode":"f6f20fc632184e46","fromSide":"left","toNode":"742149f7c738d379","toSide":"top"},
+		{"id":"8a14bb4165da81ea","fromNode":"742149f7c738d379","fromSide":"bottom","toNode":"a9b67c44e5bd8414","toSide":"top"},
+		{"id":"820913d2cafa20b4","fromNode":"a9b67c44e5bd8414","fromSide":"right","toNode":"9bb12d0734c0cb2c","toSide":"left"},
+		{"id":"a37e901459e72ae7","fromNode":"a9b67c44e5bd8414","fromSide":"bottom","toNode":"7fc10ba8ff2cbadc","toSide":"top"},
+		{"id":"2b352b4fa0aa476e","fromNode":"bfe3d4f407d69000","fromSide":"bottom","toNode":"49d921f003561646","toSide":"top","color":"4"},
+		{"id":"bffae8ec5f317be5","fromNode":"49d921f003561646","fromSide":"right","toNode":"f2509179f9e78c96","toSide":"top","color":"1"},
+		{"id":"cc904ea368522a9d","fromNode":"acde052da3f7e0c7","fromSide":"right","toNode":"40a1f40c96163638","toSide":"left"},
+		{"id":"a767909d0efcede8","fromNode":"acde052da3f7e0c7","fromSide":"top","toNode":"37637610e1ae9652","toSide":"bottom"},
+		{"id":"b5eb23efa3a25c97","fromNode":"40a1f40c96163638","fromSide":"top","toNode":"65df57a6f4be37c0","toSide":"bottom"},
+		{"id":"aeef63e47c33eebb","fromNode":"f2509179f9e78c96","fromSide":"left","toNode":"acde052da3f7e0c7","toSide":"top","color":"1"},
+		{"id":"680970a769254af0","fromNode":"acde052da3f7e0c7","fromSide":"left","toNode":"742149f7c738d379","toSide":"top","color":"5"}
+	]
+}

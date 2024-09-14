@@ -5,4 +5,4 @@ Então, não tem nada aqui pra ve, isso por enquanto é um pequeno teste, circul
 
 ## Links
 
-- ![ArtigoIa](/ArtigoIa/ArtigoIa)
+- [ArtigoIa](ArtigoIA/ArtigoIa.md)
